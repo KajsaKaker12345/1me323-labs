@@ -4,3 +4,4 @@ console.log("Addition: ", MathUtils.add(5, 3));
 console.log("Division: ", MathUtils.divide(20, 3));
 
 console.log("Value of PI: ", MathUtils.PI);
+console.log("Area of circle with radius 4: ", MathUtils.circleArea(4));
