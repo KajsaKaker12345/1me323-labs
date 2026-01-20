@@ -14,4 +14,4 @@ export function multiply(a,b) {
 export const SECRET_SAUCE = 42;
 export function circleArea(radius) {
     return Math.PI * radius * radius;
-}
+} console.log("Math module loaded"); 
