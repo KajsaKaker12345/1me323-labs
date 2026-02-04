@@ -1,0 +1,54 @@
+{
+    "restaurant": {
+        "name": "Kajsas market",
+        "description": "En matmarknad med mat från hela världens länder"
+    },
+    "categories": [
+        {
+            "name": "förrätter",
+            "dishes": [
+                {
+                    "name": "Lax",
+                    "price": 49
+                },
+                {
+                    "name": "potatis",
+                    "price": 119
+                },
+                {
+                    "name": "kyckling",
+                    "price": 39,
+                    "allergies": ["fisk", "mjölk"]
+                }
+            ]
+        },
+        {
+            "name": "huvudrätter",
+            "dishes": [
+                {
+                    "name": "Bolognese",
+                    "price": 199
+                }
+            ]
+        },
+        {
+            "name": "efterrätter",
+            "dishes": [
+                {
+                    "name": "morotskaka",
+                    "price": 99,
+                    "allergies": ["kakbotten", "kakao"]
+                }
+            ]
+        },
+        {
+            "name": "drycker",
+            "dishes": [
+                {
+                    "name": "cola",
+                    "price": 39
+                }
+            ]
+        }
+    ]
+}
